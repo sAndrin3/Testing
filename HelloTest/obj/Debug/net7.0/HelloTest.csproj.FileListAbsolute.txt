@@ -1,0 +1,14 @@
+/home/petrolhead/Documents/HelloTest/bin/Debug/net7.0/HelloTest
+/home/petrolhead/Documents/HelloTest/bin/Debug/net7.0/HelloTest.deps.json
+/home/petrolhead/Documents/HelloTest/bin/Debug/net7.0/HelloTest.runtimeconfig.json
+/home/petrolhead/Documents/HelloTest/bin/Debug/net7.0/HelloTest.dll
+/home/petrolhead/Documents/HelloTest/bin/Debug/net7.0/HelloTest.pdb
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.AssemblyInfoInputs.cache
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.AssemblyInfo.cs
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.csproj.CoreCompileInputs.cache
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.dll
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/refint/HelloTest.dll
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.pdb
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/HelloTest.genruntimeconfig.cache
+/home/petrolhead/Documents/HelloTest/obj/Debug/net7.0/ref/HelloTest.dll
