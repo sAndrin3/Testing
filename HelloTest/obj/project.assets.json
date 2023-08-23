@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/petrolhead/Documents/HelloTest/HelloTest.csproj",
+      "projectUniqueName": "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj",
       "projectName": "HelloTest",
-      "projectPath": "/home/petrolhead/Documents/HelloTest/HelloTest.csproj",
+      "projectPath": "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj",
       "packagesPath": "/home/petrolhead/.nuget/packages/",
-      "outputPath": "/home/petrolhead/Documents/HelloTest/obj/",
+      "outputPath": "/home/petrolhead/Documents/Logic and Testing/HelloTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/petrolhead/.nuget/NuGet/NuGet.Config"

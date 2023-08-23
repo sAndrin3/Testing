@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/petrolhead/Documents/Testing_Hello/Testing_Hello.csproj": {}
+    "/home/petrolhead/Documents/Logic and Testing/Testing_Hello/Testing_Hello.csproj": {}
   },
   "projects": {
-    "/home/petrolhead/Documents/HelloTest/HelloTest.csproj": {
+    "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/petrolhead/Documents/HelloTest/HelloTest.csproj",
+        "projectUniqueName": "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj",
         "projectName": "HelloTest",
-        "projectPath": "/home/petrolhead/Documents/HelloTest/HelloTest.csproj",
+        "projectPath": "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj",
         "packagesPath": "/home/petrolhead/.nuget/packages/",
-        "outputPath": "/home/petrolhead/Documents/HelloTest/obj/",
+        "outputPath": "/home/petrolhead/Documents/Logic and Testing/HelloTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/petrolhead/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/home/petrolhead/Documents/Testing_Hello/Testing_Hello.csproj": {
+    "/home/petrolhead/Documents/Logic and Testing/Testing_Hello/Testing_Hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/petrolhead/Documents/Testing_Hello/Testing_Hello.csproj",
+        "projectUniqueName": "/home/petrolhead/Documents/Logic and Testing/Testing_Hello/Testing_Hello.csproj",
         "projectName": "Testing_Hello",
-        "projectPath": "/home/petrolhead/Documents/Testing_Hello/Testing_Hello.csproj",
+        "projectPath": "/home/petrolhead/Documents/Logic and Testing/Testing_Hello/Testing_Hello.csproj",
         "packagesPath": "/home/petrolhead/.nuget/packages/",
-        "outputPath": "/home/petrolhead/Documents/Testing_Hello/obj/",
+        "outputPath": "/home/petrolhead/Documents/Logic and Testing/Testing_Hello/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/petrolhead/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/petrolhead/Documents/HelloTest/HelloTest.csproj": {
-                "projectPath": "/home/petrolhead/Documents/HelloTest/HelloTest.csproj"
+              "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj": {
+                "projectPath": "/home/petrolhead/Documents/Logic and Testing/HelloTest/HelloTest.csproj"
               }
             }
           }
